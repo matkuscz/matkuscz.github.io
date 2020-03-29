@@ -33,9 +33,16 @@ github_username:  jekyll
 #theme: minima
 #theme: jekyll-theme-merlot
 #theme: jekyll-theme-console
-theme: jekyll-theme-console
+#theme: jekyll-theme-console
+
+remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+theme: jekyll-theme-clean-blog
+
 plugins:
   - jekyll-feed
+
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
