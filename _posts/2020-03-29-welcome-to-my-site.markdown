@@ -13,12 +13,14 @@ def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Matkus')
-#=> prints 'Hi, Tom' to STDOUT.
+#=> prints 'Hi, Matkus' to STDOUT.
 {% endhighlight %}
 
 And to test hyperlinks, bio plug follows:
 [Matkus Youtube][youtube]
+
 [Matkus Twitter][twitter]
+
 [Matkus Imgur][imgur]
 
 [youtube]: https://youtube.com/channel/UCgReAdVMuTZAb8JJYdJeYMg
